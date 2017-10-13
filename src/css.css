@@ -1,0 +1,62 @@
+h1{
+
+    color:blue;
+    font-size: 28px;
+    font-family: Arial;
+    text-align: center;
+
+}
+
+h2{
+    color:blue;
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+
+}
+
+#myCanvasContainer{
+
+    border-style: groove;
+    border-width: 5px;
+    border-color: blue;
+    float: left;
+}
+
+.pequenyo{
+    font-size: small ;
+    color: blueviolet;
+    font-family: Arial;
+}
+.mediano{
+    font-size: medium ;
+    color: darkgreen;
+    font-family: Arial;
+}
+
+.grande{
+    font-size: large ;
+    color: indianred;
+    font-family: Arial;
+}
+
+#enlace{
+    border-style: groove;
+    border-width: 5px;
+    border-color: blue;
+    height: 500px;
+    width: 500px;
+   float: right;
+   overflow: auto;
+    word-wrap: break-word ;
+}
+
+a:link
+{
+    text-decoration:none;
+}
+
+li , ul{
+    list-style:none;
+    display: inline-table;
+}

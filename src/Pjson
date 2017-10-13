@@ -1,0 +1,120 @@
+{"elemento": [
+        {
+            "nombre": "Ajax",
+            "peso": "mediano",
+            "link": "http://en.wikipedia.org/wiki/Ajax_%28programming%29"
+        },{
+            "nombre": "SOAP",
+            "peso": "grande",
+            "link": "http://en.wikipedia.org/wiki/SOAP"
+        },{
+            "nombre": "Git & Bitbucket",
+            "peso": "pequenyo",
+            "link": "https://confluence.atlassian.com/display/BITBUCKET/Bitbucket+101"
+        },{
+            "nombre": "Angular",
+            "peso": "mediano",
+            "link": "https://angular.io/"
+        },{
+            "nombre": "Cloudinary",
+            "peso": "pequenyo",
+            "link": "http://cloudinary.com/"
+        },{
+            "nombre": "WSDL",
+            "peso": "grande",
+            "link": "http://en.wikipedia.org/wiki/Web_Services_Description_Language"
+        },{
+            "nombre": "Json",
+            "peso": "mediano",
+            "link": "http://www.w3schools.com/json/"
+        },{
+            "nombre": "CXF",
+            "peso": "pequenyo",
+            "link": "http://cxf.apache.org/"
+        },{
+            "nombre": "Tomcat",
+            "peso": "pequenyo",
+            "link": "http://tomcat.apache.org/"
+        },{
+            "nombre": "JavaEE",
+            "peso": "pequenyo",
+            "link": "http://www.oracle.com/technetwork/java/javaee/overview/index.html"
+        },{
+            "nombre": "Responsive",
+            "peso": "mediano",
+            "link": "http://en.wikipedia.org/wiki/Responsive_web_design"
+        },{
+            "nombre": "CSS3",
+            "peso": "grande",
+            "link": "http://www.css3.info/"
+        },{
+            "nombre": "Cordova",
+            "peso": "pequenyo",
+            "link": "https://cordova.apache.org/"
+        },{
+            "nombre": "W3c",
+            "peso": "mediano",
+            "link": "http://www.w3.org/"
+        },{
+            "nombre": "Diseño",
+            "peso": "mediano",
+            "link": "https://kuler.adobe.com/create/color-wheel/"
+        },{
+            "nombre": "Drupal",
+            "peso": "grande",
+            "link": "https://drupal.org/"
+        },{
+            "nombre": "Caniuse",
+            "peso": "pequenyo",
+            "link": "http://caniuse.com/"
+        },{
+            "nombre": "Drupal theming",
+            "peso": "pequenyo",
+            "link": "https://drupal.org/"
+        },{
+            "nombre": "HTML5",
+            "peso": "grande",
+            "link": "http://diveintohtml5.info/"
+        },{
+            "nombre": "Heroku",
+            "peso": "pequenyo",
+            "link": "https://www.heroku.com/"
+        },{
+            "nombre": "SASS",
+            "peso": "mediano",
+            "link": "http://sass-lang.com/"
+        },{
+            "nombre": "Bootstrap",
+            "peso": "mediano",
+            "link": "http://getbootstrap.com/"
+        },{
+            "nombre": "Ionic",
+            "peso": "grande",
+            "link": "http://ionicframework.com/"
+        },{
+            "nombre": "Php",
+            "peso": "pequenyo",
+            "link": "http://www.w3schools.com/php/"
+        },{
+            "nombre": "jQuery",
+            "peso": "grande",
+            "link": "http://jquery.com/"
+        },{
+            "nombre": "jQuery Mobile",
+            "peso": "pequenyo",
+            "link": "http://jquerymobile.com/"
+        },{
+            "nombre": "Web Services",
+            "peso": "mediano",
+            "link": "http://en.wikipedia.org/wiki/Web_service"
+        },{
+            "nombre": "Ruby",
+            "peso": "pequenyo",
+            "link": "https://www.ruby-lang.org/es/"
+        },{
+            "nombre": "Rails",
+            "peso": "grande",
+            "link": "http://rubyonrails.org/"
+        }
+    ]
+}
